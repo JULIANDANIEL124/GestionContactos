@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\winformsapp1\\formproductocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formproductocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\pc\\source\\repos\\educativo de logica y productoi cartesiano\\winformsapp1\\formproductocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formproductocartesiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\pc\\source\\repos\\educativo de logica y productoi cartesiano\\winformsapp1\\formproblemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formproblemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\winformsapp1\\formproblemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formproblemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\pc\\source\\repos\\educativo de logica y productoi cartesiano\\winformsapp1\\formproductocartesiano.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\formproductocartesiano.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\pc\\source\\repos\\educativo de logica y productoi cartesiano\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B135B03E-3B03-4F48-8E79-D79ED25D8A5A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProblemas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProblemas.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormProblemas.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProblemas.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\FormProblemas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:37:49.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProblemas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProblemas.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormProblemas.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProblemas.cs",
+              "RelativeToolTip": "WinFormsApp1\\FormProblemas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:12:29.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProductoCartesiano.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormProductoCartesiano.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.cs",
+              "RelativeToolTip": "WinFormsApp1\\FormProductoCartesiano.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:30:41.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProductoCartesiano.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormProductoCartesiano.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\FormProductoCartesiano.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:28:15.871Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormProductoCartesiano.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormProductoCartesiano.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\FormProductoCartesiano.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\FormProductoCartesiano.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:28:19.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:23:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Educativo de logica y productoi cartesiano\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:10:41.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
